@@ -1,0 +1,19 @@
+{
+  "name": "gamemakercloud",
+  "version": "1.0.0",
+  "description": "A multiplayer and cloud services for game maker studio 1 & 2 coded in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoiElMapa/GameMakerCloud.git"
+  },
+  "author": "ZoiElMapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZoiElMapa/GameMakerCloud/issues"
+  },
+  "homepage": "https://github.com/ZoiElMapa/GameMakerCloud#readme"
+}
