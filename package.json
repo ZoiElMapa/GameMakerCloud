@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ZoiElMapa/GameMakerCloud/issues"
   },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
   "homepage": "https://github.com/ZoiElMapa/GameMakerCloud#readme"
 }
